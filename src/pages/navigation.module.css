@@ -1,0 +1,20 @@
+.navigation {
+    width: 500px;
+    display: flex;
+    margin: 0px auto;
+}
+
+button {
+    width: 100%;
+    border: none;
+    font-size: 1.2rem;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(21, 20, 20, 0.7);
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgba(21, 20, 20, 0.85);
+}
